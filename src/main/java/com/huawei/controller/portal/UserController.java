@@ -5,7 +5,6 @@ import com.huawei.common.ResponseCode;
 import com.huawei.common.ServerResponse;
 import com.huawei.pojo.User;
 import com.huawei.service.IUserService;
-import com.sun.corba.se.spi.activation.Server;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
