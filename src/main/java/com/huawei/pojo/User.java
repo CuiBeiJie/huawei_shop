@@ -3,7 +3,7 @@ package com.huawei.pojo;
 import java.util.Date;
 
 public class User {
-	private Integer id;// 用户id
+	private Integer id;//  用户id
 
 	private String username;// 用户名称
 
