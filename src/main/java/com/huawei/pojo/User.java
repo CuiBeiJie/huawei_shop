@@ -1,7 +1,11 @@
 package com.huawei.pojo;
 
 import java.util.Date;
-
+/**
+ * Description:用户类
+ * @author cuibeijie
+ * @date 2019年1月26日
+ */
 public class User {
 	private Integer id;//  用户id
 
